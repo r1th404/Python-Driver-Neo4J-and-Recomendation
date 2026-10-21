@@ -1,12 +1,10 @@
 myenv/
 .venv/
-data/events.csv
-data/*.zip
-*.zip
 .ipynb_checkpoints/
 __pycache__/
-data/data_after_extrac/
+*.zip
+
+# duplikat dataset mentah di folder data/ (folder data_after_extrac tetap di-push)
+data/events.csv
 data/category_tree.csv
 data/item_properties_part*.csv
-data/events.csv
-data/*.zip

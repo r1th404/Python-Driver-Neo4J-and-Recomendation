@@ -1,0 +1,2 @@
+data/data_after_extrac/item_properties_part*.csv filter=lfs diff=lfs merge=lfs -text
+data/data_after_extrac/events.csv filter=lfs diff=lfs merge=lfs -text
